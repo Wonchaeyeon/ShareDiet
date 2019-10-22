@@ -1,3 +1,4 @@
+# ShareDiet프로젝트에 오신걸 환영합니다.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Wonchaeyeon/ShareDiet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
